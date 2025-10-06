@@ -2,7 +2,7 @@ server:
   port: 2333
 lavalink:
   server:
-    password: ${LAVALINK_SERVER_PASSWORD}
+    password: Exmaster23!
     sources:
       youtube: true
       bandcamp: true
